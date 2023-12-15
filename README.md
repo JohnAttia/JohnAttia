@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohnAttia
 - 👀 I’m interested in Cyber Security and pentration testing
 - 🌱 I’m currently learning Red Teams, CISCO and working on Google Cyber Security
-- 💞️ I’m looking to collaborate on Coding and cybersecurity projecting
+- 💞️ I’m looking to collaborate on Coding and cybersecurity project
 - 📫 How to reach me. You can reach me at Johnattiapro@gmail.com
 
 <!---
